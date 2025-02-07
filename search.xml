@@ -5,8 +5,8 @@
     
     <entry>
       <title>blog introduce</title>
-      <link href="/2025/02/07/blog%20introduce/"/>
-      <url>/2025/02/07/blog%20introduce/</url>
+      <link href="/2025/02/07/blog-introduce/"/>
+      <url>/2025/02/07/blog-introduce/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -20,9 +20,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -42,9 +42,9 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
